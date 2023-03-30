@@ -1,2 +1,1 @@
-This is File3.
-This file is created by Sumit Vasant Patil
+This is a copy of File2
